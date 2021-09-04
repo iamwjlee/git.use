@@ -5,3 +5,32 @@
 3. git push https://github.com/iamwjlee/git.use
 4.
 5.
+
+
+
+
+go to working directory and code .
+add 1.txt and update
+
+git config --list
+git config --global user.name "wj"
+git config --global user.email "iamwjlee@gmail.com"
+git config --list
+
+git init
+
+git remote add g https://github.com/iamwjlee/git
+.
+
+현재폴더와 깃허브의 원격지를  연동되어야 
+git remote add git https://github.com/iamwjlee/git
+.
+
+
+https://github.com/iamwjlee/G.boiler.git
+git clone https://github.com/iamwjlee/G.boiler.git
+-> 현재폴더에 G.boiler폴더에 소스가
+
+git clone https://github.com/iamwjlee/git.use
+
+git push https://github.com/iamwjlee/git.use
