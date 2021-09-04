@@ -1,11 +1,12 @@
 
-vsc + github
+Simple way to use github with Visual Studio Code
 
+0. make Repository in git
 1. install vsc
 2. install git
 3. vsc reopn for git
 
-4. make projects folder
+4. make projects folder and then code .
 5. git clone https://github.com/iamwjlee/git.use
 6. goto git.use directory
 7. for commit updated files you need belows
@@ -14,43 +15,15 @@ vsc + github
     git config --global user.email "iamwjlee@gmail.com"
     git config --list
 
-8. comment first and then comment
-
-
-1. make Repository in git
-
-
-1. go to projects code .
-2. git clone https://github.com/iamwjlee/git.use
-3. git push https://github.com/iamwjlee/git.use
-4.
-5.
+8. comment first and then commit
+9. git push https://github.com/iamwjlee/git.use 
 
 
 
+# We don't need 
+    git init 
+    git remote add orgin https://github.com/iamwjlee/git.use ::현재폴더와 깃허브의 원격지를  연동
 
-go to working directory and code .
-add 1.txt and update
-
-git config --list
-git config --global user.name "wj"
-git config --global user.email "iamwjlee@gmail.com"
-git config --list
-
-git init
-
-git remote add g https://github.com/iamwjlee/git
-.
-
-현재폴더와 깃허브의 원격지를  연동되어야 
-git remote add git https://github.com/iamwjlee/git
-.
+# we need git clone & push 
 
 
-https://github.com/iamwjlee/G.boiler.git
-git clone https://github.com/iamwjlee/G.boiler.git
--> 현재폴더에 G.boiler폴더에 소스가
-
-git clone https://github.com/iamwjlee/git.use
-
-git push https://github.com/iamwjlee/git.use
