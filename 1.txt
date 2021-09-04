@@ -1,0 +1,3 @@
+
+1. make Repository in git
+2. git clone https://github.com/iamwjlee/git.use
