@@ -1,5 +1,17 @@
 
+vsc + github
+
+1. install vsc
+2. install git
+3. vsc reopn for git
+
+4. make projects folder
+5. git clone https://github.com/iamwjlee/git.use
+
+
 1. make Repository in git
+
+
 1. go to projects code .
 2. git clone https://github.com/iamwjlee/git.use
 3. git push https://github.com/iamwjlee/git.use
