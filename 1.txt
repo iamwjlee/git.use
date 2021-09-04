@@ -8,12 +8,13 @@ vsc + github
 4. make projects folder
 5. git clone https://github.com/iamwjlee/git.use
 6. goto git.use directory
-7. for update files you need belows
+7. for commit updated files you need belows
     git config --list
     git config --global user.name "wj"
     git config --global user.email "iamwjlee@gmail.com"
     git config --list
 
+8. comment first and then comment
 
 
 1. make Repository in git
